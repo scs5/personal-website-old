@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/personal-website-old/static/css/main.202ad06e.css",
+    "main.js": "/personal-website-old/static/js/main.b3c53f05.js",
+    "static/media/website-logo.webp": "/personal-website-old/static/media/website-logo.070be5d034260fc37859.webp",
+    "static/media/profile.jpg": "/personal-website-old/static/media/profile.72a7178ace2cad22f68f.jpg",
+    "static/media/Sam_Smith_Resume.pdf": "/personal-website-old/static/media/Sam_Smith_Resume.8d673c07afd525145d95.pdf",
+    "static/media/cirrhosis-prediction-banner.webp": "/personal-website-old/static/media/cirrhosis-prediction-banner.61e55713ee54174a7d3e.webp",
+    "static/media/wolfpack-database-logo.webp": "/personal-website-old/static/media/wolfpack-database-logo.d2cccbf1ca2a1f62eba4.webp",
+    "static/media/asl-detection-banner.webp": "/personal-website-old/static/media/asl-detection-banner.e2df34b6a084f4f36496.webp",
+    "static/media/wolfpack-database-banner.webp": "/personal-website-old/static/media/wolfpack-database-banner.da49c90aa71fc7c94de8.webp",
+    "static/media/mushroom.png": "/personal-website-old/static/media/mushroom.b1dbe45882f7406a779a.png",
+    "static/media/indeed-scraper-logo.webp": "/personal-website-old/static/media/indeed-scraper-logo.d9f9f136fe248e4456d6.webp",
+    "static/media/website-banner.webp": "/personal-website-old/static/media/website-banner.e7b5ad978b45d6a53825.webp",
+    "static/media/asl-detection-logo.webp": "/personal-website-old/static/media/asl-detection-logo.d271e62c7984ca8f239e.webp",
+    "static/media/indeed-scraper-banner.webp": "/personal-website-old/static/media/indeed-scraper-banner.7d8349231a693dc11bd1.webp",
+    "static/media/cirrhosis-prediction-logo.webp": "/personal-website-old/static/media/cirrhosis-prediction-logo.d96c7acdcceb08506b2d.webp",
+    "index.html": "/personal-website-old/index.html",
+    "main.202ad06e.css.map": "/personal-website-old/static/css/main.202ad06e.css.map",
+    "main.b3c53f05.js.map": "/personal-website-old/static/js/main.b3c53f05.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.202ad06e.css",
+    "static/js/main.b3c53f05.js"
+  ]
+}
